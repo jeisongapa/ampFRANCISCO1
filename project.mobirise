@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "pactos.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "interioramp",
       "title": "InteriorAMP",
@@ -61,7 +61,7 @@
     "screenshot": "screenshot.png",
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
-    "mbrsiteDomain": "ai8eoxkqk7",
+    "mbrsiteDomain": "fq10cgagq0",
     "cssOptimize": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": false,
@@ -69,7 +69,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "global_footer_custom": "\n",
+    "global_footer_custom": "\n<!--Start of Tawk.to Script-->\n<script type=\"text/javascript\">\nvar Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();\n(function(){\nvar s1=document.createElement(\"script\"),s0=document.getElementsByTagName(\"script\")[0];\ns1.async=true;\ns1.src='https://embed.tawk.to/649f97c494cf5d49dc60d657/1h47mhm58';\ns1.charset='UTF-8';\ns1.setAttribute('crossorigin','*');\ns0.parentNode.insertBefore(s1,s0);\n})();\n</script>\n<!--End of Tawk.to Script-->",
     "global_after_body": "",
     "global_header_custom": "",
     "site_lang": "es",
@@ -658,11 +658,11 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_cid": "tII36oXCbr",
+          "_anchor": "header05-12",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header05-12"
+          "_params": {}
         },
         {
           "_name": "header2",
@@ -699,11 +699,11 @@
           "_PHPplaceholders": [],
           "_isUserblock": true,
           "_cid": "tII36pbl6O",
+          "_anchor": "header2-13",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header2-13"
+          "_params": {}
         },
         {
           "_name": "header2",
@@ -1116,11 +1116,11 @@
           "_sourceTheme": "offeramp",
           "_customHTML": "<section class=\"footer3\" group=\"Footers\" plugins=\"amp-main\" global once=\"footer\">\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"4\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Image\" value=\"@ADDONS_PATH@/offeramp/components/_images/background4.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#000000\" selected>\n        </fieldset>\n        <!-- End block parameters -->\n    </mbr-parameters>\n    <div class=\"container\">\n        <div class=\"align-center mbr-p-1\">\n            <p class=\"mbr-text mbr-white mbr-fonts-style \" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text\" data-app-placeholder=\"Type Text\">\n                © Copyright 2025 Templo Espiritual - Todos los Derechos Reservados</p>\n        </div>\n    </div>\n</section>",
           "_cid": "tII36qvVEb",
+          "_anchor": "footer03-17",
           "_protectedParams": [],
           "_global": true,
           "_once": "footer",
-          "_params": {},
-          "_anchor": "footer03-17"
+          "_params": {}
         }
       ]
     }
